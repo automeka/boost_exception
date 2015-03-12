@@ -17,6 +17,7 @@
 #include <boost/current_function.hpp>
 #include <boost/config.hpp>
 #include <string>
+#include <typeinfo>
 
 namespace
 boost
